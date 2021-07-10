@@ -1,6 +1,6 @@
 # Surfs Up 
 
-## Overview of the analysis
+## Overview 
 W. Avy assigned another challenge to us requesting more information about temperature trends before opening his surf shop. He specifically requested temperature data for the months of June and December to determine if the business is sustainable year round. In order to retrieve temperature data, we used Python, Pandas, and SQLAlchemy to filter the data column of the Measurements table in the hawaii.sqlite database. The retrieved data was first converted into a list. We then created a DataFrame from the list and generated the summary statistics. 
 
 ## Results 
